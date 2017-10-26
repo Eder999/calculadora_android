@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\WEB\\AndroidStudioProjects\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\WEB\\.android\\build-cache\\0d3639dbad859472b8f35a3e52cfc1d6fe3a0ec1\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\_ANDROID\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Eder\\.android\\build-cache\\529d51f9dfc116c9d358f84c276394a01971c56c\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\_ANDROID\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Eder\\.android\\build-cache\\529d51f9dfc116c9d358f84c276394a01971c56c\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\_ANDROID\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Eder\\.android\\build-cache\\529d51f9dfc116c9d358f84c276394a01971c56c\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\WEB\\AndroidStudioProjects\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\WEB\\.android\\build-cache\\0d3639dbad859472b8f35a3e52cfc1d6fe3a0ec1\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\WEB\\AndroidStudioProjects\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\WEB\\.android\\build-cache\\0d3639dbad859472b8f35a3e52cfc1d6fe3a0ec1\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\WEB\\AndroidStudioProjects\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\WEB\\.android\\build-cache\\0d3639dbad859472b8f35a3e52cfc1d6fe3a0ec1\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\_ANDROID\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Eder\\.android\\build-cache\\529d51f9dfc116c9d358f84c276394a01971c56c\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\WEB\\AndroidStudioProjects\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\WEB\\.android\\build-cache\\0d3639dbad859472b8f35a3e52cfc1d6fe3a0ec1\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\_ANDROID\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Eder\\.android\\build-cache\\529d51f9dfc116c9d358f84c276394a01971c56c\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\WEB\\AndroidStudioProjects\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\WEB\\.android\\build-cache\\0d3639dbad859472b8f35a3e52cfc1d6fe3a0ec1\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\_ANDROID\\Calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Eder\\.android\\build-cache\\529d51f9dfc116c9d358f84c276394a01971c56c\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]
